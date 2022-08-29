@@ -24,6 +24,8 @@ public class AddclassByTeacher extends BaseClass{
 	 @Test(groups = "Regression")
 		public void DeleteClassByTeacherTest(){
 		 System.out.println("test is Deleted");
+	         System.out.println("test is Deleted");
+			
 		 }
 	 
 	 
